@@ -42,7 +42,7 @@ package
 		{
 			trace('engine initialized');
 			FP.screen.color = 0x000000;
-			FP.world = new DecodeRoom;
+			FP.world = new LevelWorld;
 			
 			
 			
