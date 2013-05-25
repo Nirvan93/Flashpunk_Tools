@@ -1,0 +1,100 @@
+<level1>
+<width>1500</width>
+<height>500</height>
+<grid exportMode="Bitstring">000000000000000000000000000
+000000000000000000000000000
+000000000000000000000000000
+000000000000000000000000000
+000000000000000000000000000
+000000000011111000000000000
+000000001111111000010011100
+000011111111010000000000100
+100111110100000010100000000
+001001000000001000000101000
+000000010010000000010000001
+010000000000100100000000100
+000010100000000001001000000
+0</grid>
+
+<tiles exportMode="XML">
+<objTile1 x="1" y="6" id="0" />
+<objTile1 x="1" y="7" id="1" />
+<objTile1 x="1" y="8" id="1" />
+<objTile1 x="1" y="9" id="1" />
+<objTile1 x="1" y="10" id="1" />
+<objTile1 x="2" y="6" id="2" />
+<objTile1 x="3" y="6" id="2" />
+<objTile1 x="4" y="6" id="2" />
+<objTile1 x="5" y="6" id="2" />
+<objTile1 x="6" y="6" id="2" />
+<objTile1 x="7" y="6" id="2" />
+<objTile1 x="8" y="6" id="4" />
+<objTile1 x="8" y="7" id="3" />
+<objTile1 x="8" y="8" id="3" />
+<objTile1 x="8" y="9" id="3" />
+<objTile1 x="8" y="10" id="3" />
+<objTile1 x="10" y="7" id="1" />
+<objTile1 x="10" y="8" id="1" />
+<objTile1 x="10" y="9" id="1" />
+<objTile1 x="10" y="10" id="1" />
+<objTile1 x="10" y="6" id="1" />
+<objTile1 x="10" y="5" id="0" />
+<objTile1 x="11" y="5" id="2" />
+<objTile1 x="12" y="5" id="2" />
+<objTile1 x="13" y="5" id="2" />
+<objTile1 x="14" y="5" id="2" />
+<objTile1 x="15" y="5" id="2" />
+<objTile1 x="16" y="5" id="2" />
+<objTile1 x="17" y="5" id="1" />
+<objTile1 x="17" y="6" id="1" />
+<objTile1 x="17" y="7" id="1" />
+<objTile1 x="17" y="8" id="1" />
+<objTile1 x="17" y="9" id="1" />
+<objTile1 x="17" y="10" id="1" />
+<objTile1 x="17" y="4" id="0" />
+<objTile1 x="18" y="4" id="2" />
+<objTile1 x="19" y="4" id="2" />
+<objTile1 x="20" y="4" id="2" />
+<objTile1 x="21" y="4" id="4" />
+<objTile1 x="21" y="5" id="3" />
+<objTile1 x="21" y="6" id="3" />
+<objTile1 x="21" y="7" id="3" />
+<objTile1 x="21" y="8" id="3" />
+<objTile1 x="21" y="9" id="3" />
+<objTile1 x="21" y="10" id="3" />
+<objTile1 x="24" y="5" id="0" />
+<objTile1 x="25" y="5" id="2" />
+<objTile1 x="31" y="6" id="2" />
+<objTile1 x="30" y="6" id="2" />
+<objTile1 x="29" y="6" id="2" />
+<objTile1 x="28" y="6" id="2" />
+<objTile1 x="27" y="6" id="0" />
+<objTile1 x="26" y="5" id="4" />
+<objTile1 x="26" y="6" id="3" />
+<objTile1 x="26" y="7" id="3" />
+<objTile1 x="26" y="8" id="3" />
+<objTile1 x="26" y="9" id="3" />
+<objTile1 x="26" y="10" id="3" />
+<objTile1 x="24" y="6" id="1" />
+<objTile1 x="24" y="7" id="1" />
+<objTile1 x="24" y="8" id="1" />
+<objTile1 x="24" y="9" id="1" />
+<objTile1 x="24" y="10" id="1" />
+<objTile1 x="27" y="7" id="1" />
+<objTile1 x="27" y="8" id="1" />
+<objTile1 x="27" y="9" id="1" />
+<objTile1 x="27" y="10" id="1" />
+<objTile1 x="27" y="11" id="1" />
+</tiles>
+
+<entities>
+<player x="144" y="240" val="0" />
+<coin x="288" y="240" val="0" />
+<coin x="576" y="192" val="0" />
+<coin x="960" y="144" val="0" />
+<coin x="1104" y="96" val="0" />
+<coin x="1344" y="192" val="0" />
+<plat x="720" y="144" val="0" />
+</entities>
+
+</level1>
