@@ -56,6 +56,8 @@ package
 			}
 			
 			sprite.rate = Math.abs(xspeed / maxSpeed * 1.75);
+
+			function T(v:Number):Number { return v * FP.elapsed; }
 			
 			super.update();
 		}
